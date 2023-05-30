@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a machine learning engineer, interested in running models on Mobile Based App clients⚡
+I am a machine learning engineer, interested in running models on Mobile and Web Based App clients⚡
 
 
 ## 🌐 Socials:
